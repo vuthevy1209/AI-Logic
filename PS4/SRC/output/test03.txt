@@ -1,0 +1,101 @@
+17
+W OR -X
+T OR -W OR -X OR Y
+W OR Y
+-T OR W
+-T OR W OR Y
+T OR W OR -X OR Y
+-X OR Z
+-W OR -X
+-T OR -W OR -Y OR Z
+-T OR W OR -Y OR Z
+-T OR -Y
+T OR W OR Y
+-T OR W OR Z
+-T OR X
+W OR X OR Y OR -Z
+-X OR Y OR Z
+-T OR W OR X OR Z
+29
+T OR -X OR Y OR Z
+-T OR -X OR -Y OR Z
+W OR X OR Y
+-T OR -X OR Y
+-T OR -Y OR Z
+W OR -X OR Y OR Z
+-T OR Y OR Z
+X OR Y OR -Z
+-T OR W OR X OR Y
+-T OR W OR -X OR Z
+T OR W OR Y OR -Z
+-T OR -X OR Y OR Z
+-T OR -W OR Z
+-T OR -W OR -Y
+T OR -X OR Y
+-T OR Z
+-T OR W OR -Y
+W OR Y OR -Z
+-T OR W OR X OR -Z
+-T OR -X
+-T OR -W
+-T OR W OR -X
+-T OR -X OR Z
+W OR X OR Y OR Z
+-T OR X OR -Y OR Z
+-T
+-T OR -W OR -X OR Z
+-X OR Y
+-T OR W OR Y OR Z
+26
+-T OR X OR -Z
+-T OR W OR X OR -Y
+-T OR Y OR -Z
+-T OR Y
+-T OR -W OR X OR -Z
+-T OR W OR -Z
+-T OR X OR Z
+-T OR X OR -Y OR -Z
+-T OR -W OR X OR Y
+T OR -W OR Y OR -Z
+-W OR -X OR Y OR Z
+-W OR Y OR -Z
+-T OR X OR Y OR -Z
+-T OR W OR Y OR -Z
+-T OR -W OR -X
+-W OR -X OR Y
+T OR -X OR Y OR -Z
+-T OR X OR Y
+-T OR -X OR -Y
+T OR W OR Y OR Z
+-X OR Y OR -Z
+-T OR W OR -X OR Y
+Y OR -Z
+T OR W OR X OR Y
+-T OR X OR Y OR Z
+W OR -X OR Y OR -Z
+20
+-T OR -W OR -Y OR -Z
+-T OR W OR -X OR -Z
+-T OR -W OR X
+-T OR -X OR Y OR -Z
+-T OR -W OR Y OR -Z
+-T OR -W OR -Z
+T OR X OR Y OR -Z
+-T OR -Z
+-W OR -X OR Y OR -Z
+-T OR -W OR -X OR Y
+-T OR -X OR -Z
+-T OR W OR -X OR -Y
+-T OR W OR -Y OR -Z
+-T OR -W OR X OR Z
+-T OR -W OR Y OR Z
+-T OR -W OR X OR -Y
+-T OR -W OR -X OR -Z
+-W OR X OR Y OR -Z
+-T OR -Y OR -Z
+-T OR -W OR Y
+2
+-T OR -W OR -X OR -Y
+-T OR -X OR -Y OR -Z
+0
+NO
