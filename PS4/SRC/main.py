@@ -1,7 +1,7 @@
 import os
 import glob
 from KB import KB
-from FIleIO import FileIO
+from FileIO import FileIO
 
 def main():
 
